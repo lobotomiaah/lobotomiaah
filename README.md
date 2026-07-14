@@ -1,10 +1,35 @@
-## Oi,meu nome é maxwel
-- 🤖 linguagens com que eu trabalho:
-<div display="inline">
-<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-
+  <div align="center">
+  <img align="center"  src="https://media1.tenor.com/m/VjgMHLtbIccAAAAC/ellen-joe.gif" />
 </div>
 
-          
+<div align="center">
+  
+  <samp>
+      <br>
+      Hi there! I'm <b>Maxwel</b>
+  </samp>
+</div>
+<div align="center" width="100%">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Iosevka&color=bb86fc&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Analysis+and+Systems+Development;I'm+also+a+Designer+and+digital+illustrator;Be+welcome!" 
+    alt="Typing SVG"
+  />
+</div>
+
+
+<br>
+
+
+
+
+<div align="center" style="display: inline_block"><br>
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg">
+  
+</div>
+
+<br>
+<br>
