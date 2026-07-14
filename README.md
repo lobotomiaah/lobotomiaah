@@ -36,3 +36,18 @@
 
 <br>
 <br>
+
+<div align="center">
+  <samp>
+    <b>
+      Contact me:
+    </b>
+  </samp>
+  <br>
+  <br>
+
+  <a href="mailto:maxwelferreira@proton.me">
+    <img src="https://img.shields.io/badge/Proton%20Mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" alt="Proton Mail">
+  </a>
+</div>
+
