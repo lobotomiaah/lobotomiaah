@@ -10,7 +10,7 @@
   </samp>
 </div>
 <div align="center" width="100%">
-   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+a+Computer+Science+studendent.;Welcome+to+my+profile!" alt="Typing SVG" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6512F7&width=435&lines=I'm+a+Computer+Science+studendent.;Welcome+to+my+profile!" alt="Typing SVG" />
 </div>
 
 
