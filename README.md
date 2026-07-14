@@ -1,5 +1,5 @@
   <div align="center">
-  <img width=120 img align="center"  src="https://media1.tenor.com/m/VjgMHLtbIccAAAAC/ellen-joe.gif" />
+  <img width=180 img align="center"  src="https://media1.tenor.com/m/VjgMHLtbIccAAAAC/ellen-joe.gif" />
 </div>
 
 <div align="center">
